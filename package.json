@@ -1,0 +1,27 @@
+{
+    "name": "portfolio-mobile-version-2",
+    "version": "1.0.0",
+    "description": "This is the second project of the Portfolio mobile version",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/TuyishimireEric/Portfolio-mobile-version-2.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/TuyishimireEric/Portfolio-mobile-version-2/issues"
+    },
+    "homepage": "https://github.com/TuyishimireEric/Portfolio-mobile-version-2#readme",
+    "devDependencies": {
+      "hint": "^6.2.0"
+    },
+    "dependencies": {
+      "eslint": "^6.8.0"
+    }
+  }
+  
