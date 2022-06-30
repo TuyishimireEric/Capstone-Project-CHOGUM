@@ -3,7 +3,7 @@
 }
 
 .main-title {
-    text-align: center;
+  text-align: center;
 }
 
 .intro-message {
@@ -13,7 +13,7 @@
 }
 
 .intro-message p {
-    font-size: 1vw;
+  font-size: 1vw;
 }
 
 .intro-message2 {
@@ -27,10 +27,8 @@
   align-items: center;
   align-content: center;
   flex-direction: column;
-  padding-top: 60px;
   padding: 60px 16%;
 }
-
 
 #second h2{
   font-weight: 700;
@@ -55,14 +53,12 @@
   align-items: center;
   align-content: center;
   flex-direction: column;
-  padding-top: 60px;
   padding: 60px 16%;
   background-image: url("Images/main_big.png");
   background-size: cover;
 }
 
-
-#third h2{
+#third h2 {
   font-weight: 700;
   line-height: 1.1;
   font-size: 2vw;
@@ -78,7 +74,7 @@
   margin: 40px 12px;
 }
 
-. meet {
+.meet {
   width: 100%;
 }
 
@@ -123,7 +119,7 @@ footer {
     padding: 30px 3%;
   }
 
-  #second h2{
+  #second h2 {
     font-weight: 700;
     line-height: 1.1;
     font-size: 4vw;
@@ -144,13 +140,12 @@ footer {
     align-items: center;
     align-content: center;
     flex-direction: column;
-    padding-top: 40px;
     padding: 40px 3%;
     background-image: url("Images/main_big.png");
     background-size: cover;
   }
 
-  #third h2{
+  #third h2 {
     font-weight: 700;
     line-height: 1.1;
     font-size: 4vw;
@@ -166,5 +161,4 @@ footer {
     width: 100%;
     margin: 40px 12px;
   }
-
 }
