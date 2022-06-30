@@ -1,4 +1,4 @@
-"editor.codeActionsOnSave": {
+"editor.codeActionsOnSave"; {
   "source.fixAll.eslint": true
 }
 const speakerArray = [
