@@ -33,7 +33,7 @@ header {
 
 .nav li a:hover {
   background: #fff;
-  color:#272a31;
+  color: #272a31;
 }
 
 .nav li a img {
@@ -54,18 +54,18 @@ header {
 }
 
 .fa {
-  padding: 20px;  
+  padding: 20px;
   text-align: center;
   font-size: 30px;
   width: 30px;
 }
 
 .fa-facebook {
-  color: white;  
+  color: white;
 }
 
 .fa-twitter {
-  color: white;  
+  color: white;
 }
 
 .top {
@@ -139,12 +139,12 @@ h6 {
   font-weight: 1000;
   line-height: 1.1;
   font-size: 5vw;
-  -webkit-background-clip: text;
+    -webkit-background-clip: text;
 	background-clip: text;
   background-image: url("Images/CBF1.jpg");
   background-attachment: local;
   background-size: cover;
-	color: transparent;
+    color: transparent;
 }
 
 .hello {
@@ -253,7 +253,6 @@ h6 {
   flex-direction: column;
   padding-top: 60px;
 }
-
 
 #speakers h2 {
   font-weight: 700;
@@ -367,7 +366,7 @@ footer {
   header {
     display: none;
   }
-  
+
   .top {
     display: none;
   }
@@ -450,7 +449,7 @@ footer {
     text-align: center;
     justify-content: center;
   }
-  
+
   .program h3 {
     font-size: 4vw;
   }
@@ -535,8 +534,7 @@ footer {
   #speakers {
     padding-top: 30px;
   }
-  
-  
+
   #speakers h2 {
     font-weight: 700;
     line-height: 1.1;
@@ -554,11 +552,10 @@ footer {
     opacity: 0;
     animation: menu 0.5s ease-in-out 0.1s 1 forwards;
   }
-  
-  @keyframes menu {
-    from{width: 0%; opacity: 0.3; }
-    to{width: 100%; opacity: 1; }
 
+  @keyframes menu {
+    from {width: 0%; opacity: 0.3; }
+    to {width: 100%; opacity: 1; }
   }
 
   .menu-overlay.active {
