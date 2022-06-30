@@ -1,3 +1,4 @@
+/* stylelint-disable Invalid value */
 * {
   margin: 0;
   padding: 0;
@@ -139,12 +140,12 @@ h6 {
   font-weight: 1000;
   line-height: 1.1;
   font-size: 5vw;
-    -webkit-background-clip: text;
+  -webkit-background-clip: text;
 	background-clip: text;
   background-image: url("Images/CBF1.jpg");
   background-attachment: local;
   background-size: cover;
-    color: transparent;
+  color: transparent;
 }
 
 .hello {
@@ -554,8 +555,12 @@ footer {
   }
 
   @keyframes menu {
-    from {width: 0%; opacity: 0.3; }
-    to {width: 100%; opacity: 1; }
+    from {
+      width: 0%; opacity: 0.3;
+    }
+    to {
+      width: 100%; opacity: 1;
+    }
   }
 
   .menu-overlay.active {
@@ -635,3 +640,5 @@ footer {
     background-repeat: no-repeat;
   }
 }
+
+/* stylelint-enable Invalid value */
