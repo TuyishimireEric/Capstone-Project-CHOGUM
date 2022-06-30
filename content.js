@@ -1,3 +1,6 @@
+"editor.codeActionsOnSave": {
+  "source.fixAll.eslint": true
+}
 const speakerArray = [
     {
       image: 'Images/spk_06.png',
