@@ -1,4 +1,4 @@
-/* stylelint-disable Invalid value */
+/* stylelint-disable Invalid value for `height`                                     csstree/validator */
 * {
   margin: 0;
   padding: 0;
@@ -640,5 +640,4 @@ footer {
     background-repeat: no-repeat;
   }
 }
-
-/* stylelint-enable Invalid value */
+/* stylelint-enable Invalid value for `height`                                     csstree/validator */
