@@ -378,13 +378,15 @@ footer {
     height: 2.4px;
     margin: 5px auto;
     -webkit-transition: all 0.3s ease-in-out;
-    transition: all 0.3s ease-in-out;
+    transition: all 0.5s ease-in-out 0.1s;;
     background-color: #ec5242;
     cursor: pointer;
   }
 
   .navigation.active {
     position: fixed;
+    width: 60px;
+    margin: 30px 6px;
   }
 
   .navigation.active .bar:nth-child(2) {
@@ -534,8 +536,8 @@ footer {
   }
 
   .menu-overlay {
-    margin-left: -200%;
-    animation: menu 0.5s ease-in-out 1s 1 forwards;
+    opacity: 0;
+    animation: menu 0.5s ease-in-out 0.1s 1 forwards;
   }
   
   @keyframes menu {
@@ -552,14 +554,15 @@ footer {
     top: -0.1px;
     width: 100%;
     height: 100%;
-    transition: all 0.3s ease-in-out;
+    transition: all 0.5s ease-in-out;
     background: #ec534242;
     backdrop-filter: blur(5px);
   }
 
   .menu {
     margin-left: -200%;
-    transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out 0.1s;
+    animation-delay: 1s;
   }
 
   .menu.active {
@@ -572,8 +575,8 @@ footer {
     top: -0.1px;
     width: 70%;
     height: 100%;
-    transition: all 0.3s ease-in-out;
     background: #fff;
+    animation-delay: 1s;
   }
 
   .login {

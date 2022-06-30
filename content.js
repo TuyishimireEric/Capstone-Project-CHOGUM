@@ -1,4 +1,3 @@
-/* eslint semi: ["error", "never"] */
 const speakerArray = [
     {
       image: 'Images/spk_06.png',
