@@ -1,6 +1,6 @@
 * {
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
   font-family: Lato, Helvetica, sans-serif;
   scroll-behavior: smooth;
   max-width: 100%;
@@ -18,7 +18,7 @@ header {
 
 .nav {
   margin-left: 70%;
-  display:flex;
+  display: flex;
   gap: 6px;
 }
 
@@ -29,8 +29,6 @@ header {
 .nav li a {
   text-decoration: none;
   color: #fff;
-  text-size: 6px;
-  text-weight: 300px;
 }
 
 .nav li a:hover {
@@ -43,7 +41,6 @@ header {
   height: 30px;
   text-decoration: none;
   color: #fff;
-  text-size: 6px;
 }
 
 .nav-link:hover {
@@ -56,17 +53,18 @@ header {
   border-style: solid;
 }
 
-.fa {  
+.fa {
   padding: 20px;  
-  text-align: center;  
-  margin: px;  
-  font-size: 30px;  
+  text-align: center;
+  font-size: 30px;
   width: 30px;
-}  
-.fa-facebook {  
+}
+
+.fa-facebook {
   color: white;  
-}  
-.fa-twitter {  
+}
+
+.fa-twitter {
   color: white;  
 }
 
@@ -77,7 +75,6 @@ header {
   justify-content: center;
   align-items: center;
   align-content: center;
-  
 }
 
 .top1 {
@@ -110,7 +107,7 @@ header {
   background-size: cover;
   overflow: hidden;
   height: 100%;
- }
+}
 
 .intro {
   margin: 8% 16%;
@@ -126,7 +123,18 @@ header {
   margin: 16% 16%;
 }
 
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: inherit;
   font-weight: 1000;
   line-height: 1.1;
@@ -194,7 +202,7 @@ header {
   height: 50%;
   display: flex;
   gap: 1%;
-  margin: 6% 0.5%;;
+  margin: 6% 0.5%;
 }
 
 .program1 {
@@ -225,7 +233,6 @@ header {
   font-size: 1.2vw;
 }
 
-
 .program1 p {
   color: #fff;
   font-weight: 300;
@@ -248,7 +255,7 @@ header {
 }
 
 
-#speakers h2{
+#speakers h2 {
   font-weight: 700;
   line-height: 1.1;
   font-size: 2vw;
@@ -258,7 +265,7 @@ header {
   width: 53px;
   height: 16px;
   border-bottom: 1px solid rgb(239, 81, 60);
-  margin: 0px auto 30px;
+  margin: 0 auto 30px;
 }
 
 .guide_bar2 {
@@ -322,7 +329,6 @@ header {
 }
 
 footer {
-  background: #fff;
   height: 200px;
   width: 100%;
   background: rgba(255, 255, 255, 0.9);
@@ -378,7 +384,7 @@ footer {
     height: 2.4px;
     margin: 5px auto;
     -webkit-transition: all 0.3s ease-in-out;
-    transition: all 0.5s ease-in-out 0.1s;;
+    transition: all 0.5s ease-in-out 0.1s;
     background-color: #ec5242;
     cursor: pointer;
   }
@@ -409,14 +415,25 @@ footer {
     width: 100%;
   }
 
-  .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  .h1,
+  .h2,
+  .h3,
+  .h4,
+  .h5,
+  .h6,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     font-size: 8vw;
   }
 
   .intro-message2 h2 {
     font-size: 6vw;
   }
-  
+
   .intro-message2 h3 {
     font-size: 3.5vw;
   }
@@ -470,10 +487,8 @@ footer {
     font-size: 5vw;
     margin-left: 3%;
     float: left;
-    align-self: left;
-    align-content: left;
   }
-  
+
   .program1 p {
     color: #fff;
     max-width: 45%;
@@ -522,7 +537,7 @@ footer {
   }
   
   
-  #speakers h2{
+  #speakers h2 {
     font-weight: 700;
     line-height: 1.1;
     font-size: 6vw;
@@ -601,7 +616,7 @@ footer {
   }
 
   .login:hover {
-    background:rgb(239, 81, 60);
+    background: rgb(239, 81, 60);
     color: #fff;
     transform: scale(1.01, 1);
   }
