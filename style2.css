@@ -1,0 +1,170 @@
+#intro {
+  text-align: center;
+}
+
+.main-title {
+    text-align: center;
+}
+
+.intro-message {
+  width: 100%;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.intro-message p {
+    font-size: 1vw;
+}
+
+.intro-message2 {
+  width: 100%;
+  text-align: center;
+}
+
+#second {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+  padding-top: 60px;
+  padding: 60px 16%;
+}
+
+
+#second h2{
+  font-weight: 700;
+  line-height: 1.1;
+  font-size: 2vw;
+  border-bottom: 1px;
+  border-color: #272a3157;
+}
+
+.logo2 {
+  width: 40%;
+  margin: 4% 30%;
+  height: 160px;
+  background-image: url("Images/Logo.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#third {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+  padding-top: 60px;
+  padding: 60px 16%;
+  background-image: url("Images/main_big.png");
+  background-size: cover;
+}
+
+
+#third h2{
+  font-weight: 700;
+  line-height: 1.1;
+  font-size: 2vw;
+  border-bottom: 1px;
+  border-color: #272a3157;
+}
+
+.meeting {
+  display: flex;
+  justify-content: space-between;
+  gap: 3%;
+  width: 100%;
+  margin: 40px 12px;
+}
+
+. meet {
+  width: 100%;
+}
+
+footer {
+  height: 200px;
+  width: 100%;
+  background: rgba(14, 6, 6, 0.6);
+  background-image: url("Images/CBF1.jpg");
+  background-size: cover;
+  overflow: hidden;
+}
+
+.partner-list {
+  margin: -24px;
+  width: 150%;
+  height: 120%;
+  background: rgba(14, 6, 6, 0.6);
+  background-size: cover;
+}
+
+.copyright {
+  text-align: center;
+  align-content: center;
+  padding: 4%;
+}
+
+.copyright p {
+  color: #fff;
+}
+
+@media (max-width: 768px) {
+  .intro-message p {
+    font-size: 3vw;
+  }
+
+  #second {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    padding: 30px 3%;
+  }
+
+  #second h2{
+    font-weight: 700;
+    line-height: 1.1;
+    font-size: 4vw;
+  }
+
+  .logo2 {
+    width: 60%;
+    margin: 4% 30%;
+    height: 160px;
+    background-image: url("Images/Logo.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  #third {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    padding-top: 40px;
+    padding: 40px 3%;
+    background-image: url("Images/main_big.png");
+    background-size: cover;
+  }
+
+  #third h2{
+    font-weight: 700;
+    line-height: 1.1;
+    font-size: 4vw;
+    border-bottom: 1px;
+    border-color: #272a3157;
+  }
+
+  .meeting {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 3%;
+    width: 100%;
+    margin: 40px 12px;
+  }
+
+}
