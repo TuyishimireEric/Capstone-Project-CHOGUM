@@ -163,6 +163,10 @@ h6 {
   padding: 12px;
 }
 
+.intro-message p {
+  font-size: 2vw;
+}
+
 .intro-message2 h2 {
   font-family: inherit;
   font-weight: 1000;
@@ -240,7 +244,7 @@ h6 {
   color: #fff;
   font-weight: 300;
   line-height: 1.3;
-  font-size: 0.9vw;
+  font-size: 1.1vw;
   text-decoration: none;
 }
 
@@ -286,8 +290,8 @@ h6 {
 }
 
 .speaker-image {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   margin: 15px 0 0 15px;
   object-fit: cover;
 }
@@ -295,13 +299,16 @@ h6 {
 .speaker-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 3%;
   margin: 1.2% 7%;
-  width: 75%;
+  width: 80%;
 }
 
 .speaker-right {
   padding: 0% 3%;
+}
+
+.speaker-right p {
+  font-size: 1.1vw;
 }
 
 .speaker-right h3 {
@@ -415,6 +422,10 @@ footer {
 
   .intro-message {
     width: 100%;
+  }
+
+  .intro-message p {
+    font-size: 5vw;
   }
 
   .h1,
@@ -553,6 +564,10 @@ footer {
     margin-bottom: -0.2px;
   }
 
+  .speaker-right p {
+    font-size: 3.1vw;
+  }
+  
   .menu-overlay {
     opacity: 0;
     animation: menu 0.5s ease-in-out 0.1s 1 forwards;
@@ -639,12 +654,25 @@ footer {
     color: #272a31;
   }
 
+  .partner {
+    margin-top: 80px;
+    height: 100px;
+    width: 100%;
+    background-image: url("Images/CBF1.jpg");
+    background-size: cover;
+  }  
+
   .logo2 {
-    width: 60%;
-    margin: 4% 30%;
-    height: 160px;
+    width: 40%;
+    margin: 30%;
     background-image: url("Images/Logo.png");
     background-size: contain;
     background-repeat: no-repeat;
+  }
+
+  footer {
+    height: 120px;
+    width: 100%;
+    padding-top: 8px;
   }
 }

@@ -1,3 +1,17 @@
+.main {
+  background-image: url("Images/chogum.jpg");
+  background-attachment: local;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.overlay {
+  background: rgba(255, 255, 255, 0.8);
+  background-size: cover;
+  overflow: hidden;
+  height: 100%;
+}
+
 #intro {
   text-align: center;
 }

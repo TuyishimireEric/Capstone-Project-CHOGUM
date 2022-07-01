@@ -1,8 +1,8 @@
-# Capstone-Project-CHOGUM-2022
+# Capstone-Project-CHOGM-2022
 
-> This is a Capstone CHOGUM meeting website
+> This is a Capstone CHOGM meeting website
 
-> the 20th june 2022 - 25th june 2022, the Commonwealth Heads Of Government Meeting (CHOGUM) took place in Rwanda, In this project, I have created a website which can be used in CHOGUM meeting to inform and gives information of the meeting and all the Guest speakers.
+> the 20th june 2022 - 25th june 2022, the Commonwealth Heads Of Government Meeting (CHOGM) took place in Rwanda, In this project, I have created a website which can be used in CHOGM meetings to inform and give informations about the meeting.
 
 > I have made a video for more information about the project [Project Description](https://www.loom.com/share/7a1967c2ee434577976b3227da7bdabd)
 
@@ -16,7 +16,7 @@
 
 ## Project link live demo
 
-[Project Link](https://tuyishimireeric.github.io/Capstone-Project-CHOGUM/)
+[Project Link](https://tuyishimireeric.github.io/Capstone-Project-CHOGM/)
 
 
 ## Getting Started
@@ -27,7 +27,7 @@ To get a local copy, just follow the steps That I am going to mention bellow:
 ### Setup
 To get this project in your local machine, follow these steps:
 - Open terminal 
-- clone the repository :git@github.com:TuyishimireEric/Capstone-Project-CHOGUM.git
+- clone the repository :git@github.com:TuyishimireEric/Capstone-Project-CHOGM.git
 - Cd in the project folder
 - run the project in your browser
 
