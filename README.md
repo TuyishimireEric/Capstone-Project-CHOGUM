@@ -16,7 +16,7 @@
 
 ## Project link live demo
 
-[Project Link](https://tuyishimireeric.github.io/Capstone-Project-CHOGM/)
+[Project Link](https://tuyishimireeric.github.io/Capstone-Project-CHOGUM/index.html)
 
 
 ## Getting Started
