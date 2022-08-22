@@ -6,6 +6,11 @@
 
 > I have made a video for more information about the project [Project Description](https://www.loom.com/share/7a1967c2ee434577976b3227da7bdabd)
 
+## Project pictures
+![image](https://user-images.githubusercontent.com/102757126/185885896-1a1bac7f-774f-4c7d-997e-5d2cb8d6d186.png)
+![image](https://user-images.githubusercontent.com/102757126/185886018-2e822a3c-e214-4f41-a858-7c2d2d46e969.png)
+
+
 ## Built With
 
 - HTML
@@ -17,6 +22,7 @@
 ## Project link live demo
 
 [Project Link](https://tuyishimireeric.github.io/Capstone-Project-CHOGUM/index.html)
+
 
 
 ## Getting Started
@@ -42,8 +48,10 @@ To get this project in your local machine, follow these steps:
 
 👤 **Tuyishimire Eric**
 
-- GitHub: [@TuyishimireEric](https://github.com/TuyishimireEric)
-- LinkedIn: [@TuyishimireEric](https://www.linkedin.com/in/Tuyishimire-Eric-32426b21a/)
+- Github: [TuyishimireEric](https://github.com/TuyishimireEric)
+- LinkedIn: [Tuyishimire Eric](https://www.linkedin.com/in/tuyishimire-eric-32426b21a/)
+- Twitter: [Tuyishimire Eric](https://twitter.com/TuyishimirEric?t=86l1m656Hv_vaKXMDqYkBA&s=03)
+- E-mail: tuyishimireeric@gmail.com
 
 
 ## 🤝 Contributing
