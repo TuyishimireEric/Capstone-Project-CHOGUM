@@ -2,7 +2,7 @@
 
 > This is a Capstone CHOGM meeting website
 
-> the 20th june 2022 - 25th june 2022, the Commonwealth Heads Of Government Meeting (CHOGM) took place in Rwanda, In this project, I have created a website which can be used in CHOGM meetings to inform and give informations about the meeting.
+> the 20th June 2022 - 25th June 2022, the Commonwealth Heads Of Government Meeting (CHOGM) took place in Rwanda, In this project, I have created a website that can be used in CHOGM meetings to inform and give information about the meeting.
 
 > I have made a video for more information about the project [Project Description](https://www.loom.com/share/7a1967c2ee434577976b3227da7bdabd)
 
