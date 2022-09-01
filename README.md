@@ -30,7 +30,7 @@ To get a local copy of this exercice, Please follow these simple example steps.
 
 1. Clone this repository or download the Zip folder:
 
-**``git@github.com:TuyishimireEric/math_magician.git``**
+**``git@github.com:TuyishimireEric/Capstone-Project-CHOGUM.git``**
 
 2. Navigate to the location of the folder in your machine:
 
