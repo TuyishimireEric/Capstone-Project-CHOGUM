@@ -26,48 +26,45 @@
 
 
 ## Getting Started
-To get a local copy, just follow the steps That I am going to mention bellow:
+To get a local copy of this exercice, Please follow these simple example steps.
 
-### Prerequisites
+1. Clone this repository or download the Zip folder:
 
-### Setup
-To get this project in your local machine, follow these steps:
-- Open terminal 
-- clone the repository :git@github.com:TuyishimireEric/Capstone-Project-CHOGM.git
-- Cd in the project folder
-- run the project in your browser
+**``git@github.com:TuyishimireEric/math_magician.git``**
 
-### install
- - run npm install to install the required linters
+2. Navigate to the location of the folder in your machine:
 
- ### tests
- - run the project in the browsers 
- - use google tool to inspect and check in mobile version.
+**``you@your-Pc-name:~$ cd <folder>``**
+
+3. Press Enter to navigate to your local clone.
+4. Open terminal and run this command npm install
+5. after finishing step 5, run this command npm start to run the project
+6. for testing components, you can run: npm run test.
+
+Now you can go and play with it as you wish :smile:
 
 ## Authors
 
-👤 **Tuyishimire Eric**
+👤 Eric TuyishimireEric
 
-- Github: [TuyishimireEric](https://github.com/TuyishimireEric)
-- LinkedIn: [Tuyishimire Eric](https://www.linkedin.com/in/tuyishimire-eric-32426b21a/)
-- Twitter: [Tuyishimire Eric](https://twitter.com/TuyishimirEric?t=86l1m656Hv_vaKXMDqYkBA&s=03)
-- E-mail: tuyishimireeric@gmail.com
+- GitHub: [@TuyishimireEric](https://github.com/TuyishimireEric)
+- LinkedIn: [@TuyishimireEric](https://www.linkedin.com/in/TuyishimireEric/)
+- E-mail: <a href="mailto:tuyishimireericc@gmail.com">tuyishimireericc@gmail.com</a>
 
+
+## Show your support
+Give a ⭐️ if you like this project!
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
+Feel free to check the [issues page](https://github.com/TuyishimireEric/math_magician/issues).
 
 ## Acknowledgments
 
-Original design idea by **Cindy Shin Behance**
+- Hat tip to anyone whose code was used
+- Big thanks to the [Microverse](https://bit.ly/MicroverseTN) community with a special mention of my coding partners, morning session teams, standup teams and reviewers.
 
 ## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE.txt) licensed.
